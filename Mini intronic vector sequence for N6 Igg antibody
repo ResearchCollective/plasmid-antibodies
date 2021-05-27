@@ -1,0 +1,495 @@
+Full Sequence:
+1 tcgcg cgttt cggtg atgac ggtga aaacc tctga cacat gcagc tcccg 
+      51 gagac ggtca cagct tgtct gtaag cggat gccgg gagca gacaa gcccg 
+     101 tcagg gcgcg tcagc gggtg ttggc gggtg tcggg gctgg cttaa ctatg 
+     151 cggca tcaga gcaga ttgta ctgag agtgc accat atgcg gtgtg aaata 
+     201 ccgca cagat gcgta aggag aaaat accgc atcag gcgcc attcg ccatt 
+     251 caggc tgcgc aactg ttggg aaggg cgatc ggtgc gggcc tcttc gctat 
+     301 tacgc cagct ggcga aaggg ggatg tgctg caagg cgatt aagtt gggta 
+     351 acgcc agggt tttcc cagtc acgac gttgt aaaac gacgg ccagt gaatt 
+     401 cgagc tcggt acctc gcgaa tgcat ctaga gcggc cgcat aactt cgtat 
+     451 agcat acatt atacg aacgg taacc tgggt accca tagag cccac cgcat 
+     501 cccca gcatg cctgc tattg tcttc ccaat cctcc ccctt gctgt cctgc 
+     551 cccac cccac ccccc agaat agaat gacac ctact cagac aatgc gatgc 
+     601 aattt cctca tttta ttagg aaagg acagt gggag tggca ccttc caggg 
+     651 tcaag gaagg cacgg gggag gggca aacaa cagat ggctg gcaac tagaa 
+     701 ggcac agcag atctg atcct catca tttac ctgga gacag ggaga ggctc 
+     751 ttctg cgtgt agtgg ttgtg cagag cctca tgcat cacgg agcat gagaa 
+     801 gacgt tcccc tgctg ccacc tgctc ttgtc cacgg tgagc ttgct gtaga 
+     851 ggaag aagga gccat cagag tccag cacgg gaggc gtggt cttgt agttg 
+     901 ttctc cggct gccca ttgct ctccc actcc acagc gatgt cgctg ggata 
+     951 gaagc ctttg accag gcagg tcagg ctgac ctggt tcttg gtcag ctcat 
+    1001 cccgg gatgg gggca gggtg tacac ctgtg gttct cgggg ctgcc ctttg 
+    1051 gcttt ggaga tggtt ttctc gatgg gggct gggag ggctt tgttg ctgac 
+    1101 cttgc acttg tactc cttgc cattc agcca gtcct ggtgc aggac ggtga 
+    1151 ggaca ctgac cacac ggtac gtgct gttgt actgc tcctc cctcg gcttt 
+    1201 gtctt ggcat tatgc acctc cactc catcc acgta ccagt tgaac ttgac 
+    1251 ctcag ggtct tcatg gctca catcc accac cacgc atgtg acctc agggg 
+    1301 tccgg gagat catga gggtg tcctt gggtt ttggg gggaa gagga agact 
+    1351 gacgg tcccc ccagg agttc aggtg ctggg cacgg tgggc atgtg tgagt 
+    1401 tttgt cacaa gattt gggct caact ttctt gtcca ccttg gtgtt gctgg 
+    1451 gcttg tgatt cacgt tgcag atgta ggtct gggtg cccaa gctgc tggag 
+    1501 ggcac ggtca ccacg ctgct gaggg agtag agtcc tgagg actgt aggac 
+    1551 agccg ggaag gtgtg cacgc cgctg gtcag ggctc ctgag ttcca cgaca 
+    1601 cagtc accgg ttcgg ggaag tagtc cttga ccagg cagcc caggg ccgct 
+    1651 gtgcc cccag aggtg ctctt ggagg agggt gccag gggga agaca cttgg 
+    1701 gccct tggta ctcgc cgcag agacg acgac agtcg ttccc tgtcc ccagg 
+    1751 catct aaggc ccaag aggag tctcc atagg accta tctct cgcac agtaa 
+    1801 tagac agccg tgtca tcagg tttaa ggcct ctgat gtcca tgtac gcaat 
+    1851 ctctc tatat acatc tcgtg tcaat gtgac cctgt cccga aaacc accac 
+    1901 caaaa ttcac agccc catat tgtgg cttga tccac cccac ccact caagt 
+    1951 cctcg cccag gggcc tgtcg gaacc aaaat aatat gtggg cggta aaggt 
+    2001 gtatc cagag gtctg gcagg agact cttac tgagg ctccc ggttt cttca 
+    2051 tcgca gtccc tgatt gtacc aggtg cgctc gagaa tgtac accgg ttgca 
+    2101 gttgc tacta gaaaa aggat gatac atgac catcc catgg tggtc tagtg 
+    2151 cagtt acgat atctg atcac acgtg tcgag gacag tgact gcaga ttgct 
+    2201 ttgaa ttagc ggtgg ttttc acaac accta aaaaa gggtt taaaa gatac 
+    2251 ctttg aaccg ctaag aagcc cgaga attag ctccg ctcaa aactc aaggg 
+    2301 gacaa attcc aaaaa tgact tccag cgcca ggctg gcctg actag tctcc 
+    2351 accca ccaaa tgtga acaaa ctcca acgcc attac atccc ctccc cccgc 
+    2401 cgcga ctagc cgtgc tcaaa agccc gaggt gacta ttgcg gccga tagga 
+    2451 ccacg gggtc acagg aagca gcagc cggtg aggga ccagg ccctc ttcct 
+    2501 ttgtg tgggt gactc acccg cccgc tccac cgggc tgccg cgtcc tccat 
+    2551 tttga gctcc ttgca acagg gcccg ggagc ggcca tcttt ccacg cacgc 
+    2601 aactg gtgcc ggacg ggatg gcctc accct agtta gggag gcagg gcaac 
+    2651 gcggc gccgc caagc cagat cgtgc cgggt gctgg ggcca catgg cctcg 
+    2701 gcacg ctaac cccag cctgg ttgct tcggg aaaaa cccca ggcct cgccc 
+    2751 catcc aggtg gcgtc ggaca tgtgc tccga aggcg ggcgg gcccc agccg 
+    2801 ccact cctgt ccctc cattc ctccc caacc atgac ctctc cgggc tccgg 
+    2851 gcgag caagc cccgc accct ccctt tgtta gcccc tattg ctgaa cggca 
+    2901 atcga aggca gcagg gcaac aacaa caaaa aaaaa aaaga ccaga gtgcg 
+    2951 gccgg agtag cacgc ggcgg cggcg cggac accac gctag gcctc aagcc 
+    3001 ggaca cgagg cgagg ctacg gggtt gccgc taggc ctcgc actct gcctc 
+    3051 ccgcg ccgcc cgcaa ctcga agcgg gaatg ctcgc agcta atccc cgccg 
+    3101 acgac agcgg ggccc ggccc gctcg gagca ggacc tccag ctcgg cggcc 
+    3151 cgcgg aagcc acacc cgccc ctcac ctgcg ttctg acggc aaacc cgttg 
+    3201 cgaaa aagaa cgtcc aaggc gactg ccgca cttat atacc gttct ccccc 
+    3251 accct cggga agagg gcgga gccag cacac gacac cgctt tccca gtttg 
+    3301 ccccg cgcca gctcc ccggt cctcc ccccc acgac caggg tctat gagct 
+    3351 tgtgt gctct gctct ccccg cgctc agccc tgagc gcatg ctcct cgcgc 
+    3401 tgtcg tgggg cggct acagg gattt gggtc tgtga gaatt taggg acggt 
+    3451 ccctg ggctc tcccc ttgcg aaggc gatcc ctcct tttgt atgaa ttact 
+    3501 ctcgg ctcca ctagt gggcc ctgca aggaa ttctg ttagg gtgtg gaaag 
+    3551 tcccc aggct cccca gcagg cagaa gtatg caaag catgc atctc aatta 
+    3601 gtcag caacc aggtg tggaa agtcc ccagg ctccc cagca ggcag aagta 
+    3651 tgcaa agcat gcatc tcaat tagtc agcaa ccata gtccc ctagg gagac 
+    3701 atgtt tacat aactt acggt aaatg gcccg cctgg ctgac cgccc aacga 
+    3751 ccccc gccca ttgac gtcaa taatg acgta tgttc ccata gtaac gccaa 
+    3801 taggg acttt ccatt gacgt caatg ggtgg agtat ttacg gtaaa ctgcc 
+    3851 cactt ggcag tacat caagt gtatc atatg ccaag tacgc cccct attga 
+    3901 cgtca atgac ggtaa atggc ccgcc tggca ttatg cccag tacat gacct 
+    3951 tatgg gactt tccta cttgg cagta catct acgta ttagt catcg ctatt 
+    4001 accat gaatt ggttt gatct gatta taact agtgg agaag agcat gcttg 
+    4051 agggc tgagt gcccc tcagt gggca gagag cacat ggccc acagt ccctg 
+    4101 agaag ttggg gggag gggtg ggcaa ttgaa ctggt gccta gagaa ggtgg 
+    4151 ggctt gggta aactg ggaaa gtgat gtggt gtact ggctc cacct ttttc 
+    4201 cccag ggtgg gggag aacca tatat aagtg cagta gtctc tgtga acatt 
+    4251 cgcta gcaca cgtgt gatca gatat catgg ctgct cttag ccacc atggg 
+    4301 atggt catgt atcat ccttt ttcta gtagc aactg caacc ggtgt acatt 
+    4351 catac atcca cgtga cccag tctcc gtcct ccctg tctgt gtcta ttgga 
+    4401 gacag agtca ccatc aactg ccaga cgagt caggg tgttg gcagt gacct 
+    4451 acatt ggtat caaca caaac cgggg agagc cccta aactc ttgat ccacc 
+    4501 atacc tcttc tgtgg aagac ggtgt cccct caaga ttcag cggct ctgga 
+    4551 tttca cacat ctttt aatct gacca tcagc gacct acagg ctgac gacat 
+    4601 tgcca catat tactg tcaag tttta caatt ctttg gccga gggag tagac 
+    4651 tccat attaa acgta cggtg gctgc accat ctgtc ttcat cttcc cacca 
+    4701 tctga tgagc agttg aaatc tggaa ctgcc tctgt tgtgt gcctg ctgaa 
+    4751 taact tctac cccag agaag ccaaa gtgca gtgga aggtg gacaa tgccc 
+    4801 tccag agcgg aaaca gccag gaatc tgtga cagag cagga ttcca aggat 
+    4851 tccac ataca gcctg agcag cacac tgaca ctgtc caagg ctgac tacga 
+    4901 gaagc acaag gtgta cgcct gcgaa gtgac acacc aggga ctgtc ctccc 
+    4951 ctgtg acaaa gagct tcaac agagg agaat gctga tagga taagc tttga 
+    5001 tctaa ataaa cttat aaatt gtgag agaaa ttaat gaatg tctaa gttaa 
+    5051 tgcag aaacg gagag acata ctata ttcat gaact aaaag actta atatt 
+    5101 gtgaa ggtat acttt ctttc cacat aaatt tgtag tcaat atgtt caccc 
+    5151 caaaa aagct gtttg ttaac ttgcc aacct cattc taaaa tgtat ataga 
+    5201 agccc aaaag acaat aacaa aaata ttctt gtaga acaaa atggg aaaga 
+    5251 atgtt ccact aaata tcaag attta gagca aagca tgaga tgtgt gggga 
+    5301 tagac agtga ggctg ataaa ataga gtaga gctca gaaac agacc cattg 
+    5351 atata tgtaa gtgac ctatg aaaaa aatat ggcat tttac aatgg gaaaa 
+    5401 tgatg atctt tttct ttttt agaaa aacag ggaaa tatat ttata tgtaa 
+    5451 aaaat aaaag ggaac ccata tgtca tacca tacac acaaa aaaat tccag 
+    5501 tgaat tataa gtcta aatgg agaag gcaaa acttt aaatc tttta gaaaa 
+    5551 taata tagaa gcatg ccatc atgac ttcag tgtag agaaa aattt cttat 
+    5601 gactc aaagt cctaa ccaca aagaa aagat tgtta attag attgc atgaa 
+    5651 tatta agact tattt ttaaa attaa aaaac catta agaaa agtca ggcca 
+    5701 tagaa tgaca gaaaa tattt gcaac acccc agtaa agaga attgt aatat 
+    5751 gcaga ttata aaaag aagtc ttaca aatca gtaaa aaata aaact agaca 
+    5801 aaaat ttgaa cagat gaaag agaaa ctcta aataa tcatt acaca tgaga 
+    5851 aactc aatct cagaa atcag agaac tatca ttgca tatac actaa attag 
+    5901 agaaa tatta aaagg ctaag taaca tctgt ggcaa tattg atggt atata 
+    5951 acctt gatat gatgt gatga gaaca gtact ttacc ccatg ggctt cctcc 
+    6001 ccaaa ccctt acccc agtat aaatc atgac aaata tactt taaaa accat 
+    6051 taccc tatat ctaac cagta ctcct caaaa ctgtc aaggt catca aaaat 
+    6101 aagaa aagtc tgagg aactg tcaaa actaa gagga accca aggag acatg 
+    6151 agaat tatat gtaat gtggc attct gaatg agatc ccaga acaga aaaag 
+    6201 aacag tagct aaaaa actaa tgaaa tataa ataaa gtttg aactt tagtt 
+    6251 ttttt taaaa aagag tagca ttaac acggc aaagc cattt tcata ttttt 
+    6301 cttga acatt aagta caagt ctata attaa aaatt tttta aatgt agtct 
+    6351 ggaac attgc cagaa acaga agtac agcag ctatc tgtgc tgtcg cctaa 
+    6401 ctatc catag ctgat tggtc taaaa tgaga tacat caacg ctcct ccatg 
+    6451 ttttt tgttt tcttt ttaaa tgaaa aactt tattt tttaa gagga gtttc 
+    6501 aggtt catag caaaa ttgag aggaa ggtac attca agctg aggaa gtttt 
+    6551 cctct attcc tagtt tactg agaga ttgca tcatg aatgg gtgtt aaatt 
+    6601 ttgtc aaatg ctttt tctgt gtcta tcaat atgac catgt gattt tcttc 
+    6651 tttaa cctgt tgatg ggaca aatta cgtta attga ttttc aaacg ttgaa 
+    6701 ccacc cttac atatc tggaa taaat tctac ttggt tgtgg tgtat atttt 
+    6751 ttgat acatt cttgg attct ttttg ctaat atttt gttga aaatg tttgt 
+    6801 atctt tgttc atgag agata ttggt ctgtt gtttt ctttt cttgt aatgt 
+    6851 cattt tctag ttccg gtatt aaggt aatgc tggcc tagtt gaatg attta 
+    6901 ggaag tattc cctct gcttc tgtct tctga aagag attgt agaaa gttga 
+    6951 tacaa ttttt ttttc tttaa atatc ttgat agaat tggat cctat caatc 
+    7001 gtcga ctgta ccttg ggcct gggac cggaa ctgaa acata aaatg aatgc 
+    7051 aactg ttgtt gttaa cttgt ttatt gcagc ttata atggt tacaa ataaa 
+    7101 gcaat agcat cacaa atttc acaaa taaag cattt ttttc actgc attct 
+    7151 agttg tggtt tgtcc aaact catca atgta tctta tcatg tctgg atcac 
+    7201 gcgta gtcta gatac cgttc gtata gcata catta tacga agtta tgttt 
+    7251 cggcc ggtgg atcca ccggt attgg gatct tcaca cagca ggtaa ggttg 
+    7301 cgggc cgggc ctggg ccggg tccgg gccgg gtatt gcccg cctaa tgagc 
+    7351 gggct ttttt ttctt acccc ttctt ccgct tcctc gctca ctgac tcgct 
+    7401 gcgct cggtc gttcg gctgc ggcga gcggt atcag ctcac tcaaa ggcgg 
+    7451 taata cggtt atcca cagaa tcagg ggata acgca ggaaa gaaca tgtga 
+    7501 gcaaa aggcc agcaa aaggc cagga accgt aaaaa ggccg cgttg ctggc 
+    7551 gtttt tccat aggct ccgcc cccct gacga gcatc acaaa aatcg acgct 
+    7601 caagt cagag gtggc gaaac ccgac aggac tataa agata ccagg cgttt 
+    7651 ccccc tggaa gctcc ctcgt gcgct ctcct gttcc gaccc tgccg cttac 
+    7701 cggat acctg tccgc ctttc tccct tcggg aagcg tggcg ctttc tcata 
+    7751 gctca cgctg taggt atctc agttc ggtgt aggtc gttcg ctcca agctg 
+    7801 ggctg tgtgc acgaa ccccc cgttc agccc gaccg ctgcg cctta tccgg 
+    7851 taact atcgt cttga gtcca acccg gtaag acacg actta tcgcc actgg 
+    7901 cagca gccac tggta acagg attag cagag cgagg tatgt aggcg gtgct 
+    7951 acaga gttct tgaag tggtg gccta actac ggcta cacta gaaga acagt 
+    8001 atttg gtatc tgcgc tctgc tgaag ccagt tacct tcgga aaaag agttg 
+    8051 gtagc tcttg atccg gcaaa caaac caccg ctggt agcgg tggtt ttttt 
+    8101 gtttg caagc agcag attac gcgca gaaaa aaagg atctc aagaa gatcc 
+    8151 tttga tcttt tctac ggggt ctgac gctca gtgga acgaa aactc acgtt 
+    8201 aaggg atttt ggtca tgaga ttatc aaaaa ggatc ttcac ctaga tcctt 
+    8251 ttaaa ttaaa aatga agttt taaat caatc taaag tatat atgag taaac 
+    8301 ttggt ctgac agtta ccaat gctta atcag tgagg cacct atctc agcga 
+    8351 tctgt ctatt tcgtt catcc atagt tgcct gactc ctgca aacca cgttg 
+    8401 tggta gaatt ggtaa agaga gtcgt gtaaa atatc gagtt cgcac atctt 
+    8451 gttgt ctgat tattg atttt tggcg aaacc atttg atcat atgac aagat 
+    8501 gtgta tctac cttaa cttaa tgatt ttgat aaaaa tcatt aggta ccccg 
+    8551 gcccg cactg acccc tggtg ttgct ttttt ttttt aggcc gcaag ctgaa 
+    8601 gcgtg tccac tagct gacta gctaa ccgcg gaaac agtta ccaat gctta 
+    8651 atcag tgagg cacct atctc agcga tctgt ctatt tcgtt catcc atagt 
+    8701 tgcct gactc cccgt cgtgt agata actac gatac gggag ggctt accat 
+    8751 ctggc cccag tgctg caatg atacc gcgag accca cgctc accgg ctcca 
+    8801 gattt atcag caata aacca gccag ccgga agggc cgagc gcaga agtgg 
+    8851 tcctg caact ttatc cgcct ccatc cagtc tatta attgt tgccg ggaag 
+    8901 ctaga gtaag tagtt cgcca gttaa tagtt tgcgc aacgt tgttg ccatt 
+    8951 gctac aggca tcgtg gtgtc acgct cgtcg tttgg tatgg cttca ttcag 
+    9001 ctccg gttcc caacg atcaa ggcga gttac atgat ccccc atgtt gtgca 
+    9051 aaaaa gcggt tagct ccttc ggtcc tccga tcgtt gtcag aagta agttg 
+    9101 gccgc agtgt tatca ctcat ggtta tggca gcact gcata attct cttac 
+    9151 tgtca tgcca tccgt aagat gcttt tctgt gactg gtgag tactc aacca 
+    9201 agtca ttctg agaat agtgt atgcg gcgac cgagt tgctc ttgcc cggcg 
+    9251 tcaat acggg ataat accgc gccac atagc agaac tttaa aagtg ctcat 
+    9301 cattg gaaaa cgttc ttcgg ggcga aaact ctcaa ggatc ttacc gctgt 
+    9351 tgaga tccag ttcga tgtaa cccac tcgtg caccc aactg atctt cagca 
+    9401 tcttt tactt tcacc agcgt ttctg ggtga gcaaa aacag gaagg caaaa 
+    9451 tgccg caaaa aaggg aataa gggcg acacg gaaat gttga atact catac 
+    9501 tcttc ctttt tcaat attat tgaag cattt atcag ggtta ttgtc tcatg 
+    9551 agcgg ataca tattt gaatg tattt agaaa aataa acaaa taggg gttcc 
+    9601 gcgca cattt ccccg aaaat ttccc cgaaa tccct atcag tgata gagaa 
+    9651 aagtg aaagt cgagt ttacc actcc ctatc agtga tagag aaaag tgaaa 
+    9701 gtcga gttta ccact cccta tcagt gatag agaaa agtga aagtc gagtt 
+    9751 tacca ctccc tatca gtgat agaga aaagt gaaag tcgag tttac cactc 
+    9801 cctat cagtg ataga gaaaa gtgaa agtcg agttt accac tccct atcag 
+    9851 tgata gagaa aagtg aaagt cgagt ttacc actcc ctatc agtga tagag 
+    9901 aagtg ccacc tgacg tctaa gaaac catta ttatc atgac attaa cctat 
+    9951 aaaaa taggc gtatc acgag gccct ttcgt c 
+
+
+bGH polysignal (A)
+Location: 483-707bp
+Length: 225bp
+Sequence: 
+     483 ccata gagcc caccg catcc ccagc atgcc tgcta ttgtc ttccc aatcc 
+     533 tcccc cttgc tgtcc tgccc caccc caccc cccag aatag aatga cacct 
+     583 actca gacaa tgcga tgcaa tttcc tcatt ttatt aggaa aggac agtgg 
+     633 gagtg gcacc ttcca gggtc aagga aggca cgggg gaggg gcaaa caaca 
+     683 gatgg ctggc aacta gaagg cacag 
+
+
+
+
+
+Heavy Chain Constant Region (3’-5’ direction)
+Location: 726-1715
+Length:990
+Sequence:
+    726 tttac ctgga gacag ggaga ggctc ttctg cgtgt agtgg ttgtg cagag 
+     776 cctca tgcat cacgg agcat gagaa gacgt tcccc tgctg ccacc tgctc 
+     826 ttgtc cacgg tgagc ttgct gtaga ggaag aagga gccat cagag tccag 
+     876 cacgg gaggc gtggt cttgt agttg ttctc cggct gccca ttgct ctccc 
+     926 actcc acagc gatgt cgctg ggata gaagc ctttg accag gcagg tcagg 
+     976 ctgac ctggt tcttg gtcag ctcat cccgg gatgg gggca gggtg tacac 
+    1026 ctgtg gttct cgggg ctgcc ctttg gcttt ggaga tggtt ttctc gatgg 
+    1076 gggct gggag ggctt tgttg ctgac cttgc acttg tactc cttgc cattc 
+    1126 agcca gtcct ggtgc aggac ggtga ggaca ctgac cacac ggtac gtgct 
+    1176 gttgt actgc tcctc cctcg gcttt gtctt ggcat tatgc acctc cactc 
+    1226 catcc acgta ccagt tgaac ttgac ctcag ggtct tcatg gctca catcc 
+    1276 accac cacgc atgtg acctc agggg tccgg gagat catga gggtg tcctt 
+    1326 gggtt ttggg gggaa gagga agact gacgg tcccc ccagg agttc aggtg 
+    1376 ctggg cacgg tgggc atgtg tgagt tttgt cacaa gattt gggct caact 
+    1426 ttctt gtcca ccttg gtgtt gctgg gcttg tgatt cacgt tgcag atgta 
+    1476 ggtct gggtg cccaa gctgc tggag ggcac ggtca ccacg ctgct gaggg 
+    1526 agtag agtcc tgagg actgt aggac agccg ggaag gtgtg cacgc cgctg 
+    1576 gtcag ggctc ctgag ttcca cgaca cagtc accgg ttcgg ggaag tagtc 
+    1626 cttga ccagg cagcc ca 
+
+Heavy Chain Variable Region (3’-5’ direction)
+Location: 1716-2081
+Length:366
+Sequence:
+1716 cgcag agacg acgac agtcg ttccc tgtcc ccagg catct aaggc ccaag 
+    1766 aggag tctcc atagg accta tctct cgcac agtaa tagac agccg tgtca 
+    1816 tcagg tttaa ggcct ctgat gtcca tgtac gcaat ctctc tatat acatc 
+    1866 tcgtg tcaat gtgac cctgt cccga aaacc accac caaaa ttcac agccc 
+    1916 catat tgtgg cttga tccac cccac ccact caagt cctcg cccag gggcc 
+    1966 tgtcg gaacc aaaat aatat gtggg cggta aaggt gtatc cagag gtctg 
+    2016 gcagg agact cttac tgagg ctccc ggttt cttca tcgca gtccc tgatt 
+    2066 gtacc aggtg cgctc g 
+
+mEF-1a intron/promoter
+Location: 2195-3527
+Length: 1333bp
+Sequence 
+   2195 attgc tttga attag cggtg gtttt cacaa cacct aaaaa agggt ttaaa 
+    2245 agata ccttt gaacc gctaa gaagc ccgag aatta gctcc gctca aaact 
+    2295 caagg ggaca aattc caaaa atgac ttcca gcgcc aggct ggcct gacta 
+    2345 gtctc caccc accaa atgtg aacaa actcc aacgc catta catcc cctcc 
+    2395 ccccg ccgcg actag ccgtg ctcaa aagcc cgagg tgact attgc ggccg 
+    2445 atagg accac ggggt cacag gaagc agcag ccggt gaggg accag gccct 
+    2495 cttcc tttgt gtggg tgact caccc gcccg ctcca ccggg ctgcc gcgtc 
+    2545 ctcca ttttg agctc cttgc aacag ggccc gggag cggcc atctt tccac 
+    2595 gcacg caact ggtgc cggac gggat ggcct caccc tagtt aggga ggcag 
+    2645 ggcaa cgcgg cgccg ccaag ccaga tcgtg ccggg tgctg gggcc acatg 
+    2695 gcctc ggcac gctaa cccca gcctg gttgc ttcgg gaaaa acccc aggcc 
+    2745 tcgcc ccatc caggt ggcgt cggac atgtg ctccg aaggc gggcg ggccc 
+    2795 cagcc gccac tcctg tccct ccatt cctcc ccaac catga cctct ccggg 
+    2845 ctccg ggcga gcaag ccccg caccc tccct ttgtt agccc ctatt gctga 
+    2895 acggc aatcg aaggc agcag ggcaa caaca acaaa aaaaa aaaag accag 
+    2945 agtgc ggccg gagta gcacg cggcg gcggc gcgga cacca cgcta ggcct 
+    2995 caagc cggac acgag gcgag gctac ggggt tgccg ctagg cctcg cactc 
+    3045 tgcct cccgc gccgc ccgca actcg aagcg ggaat gctcg cagct aatcc 
+    3095 ccgcc gacga cagcg gggcc cggcc cgctc ggagc aggac ctcca gctcg 
+    3145 gcggc ccgcg gaagc cacac ccgcc cctca cctgc gttct gacgg caaac 
+    3195 ccgtt gcgaa aaaga acgtc caagg cgact gccgc actta tatac cgttc 
+    3245 tcccc caccc tcggg aagag ggcgg agcca gcaca cgaca ccgct ttccc 
+    3295 agttt gcccc gcgcc agctc cccgg tcctc ccccc cacga ccagg gtcta 
+    3345 tgagc ttgtg tgctc tgctc tcccc gcgct cagcc ctgag cgcat gctcc 
+    3395 tcgcg ctgtc gtggg gcggc tacag ggatt tgggt ctgtg agaat ttagg 
+    3445 gacgg tccct gggct ctccc cttgc gaagg cgatc cctcc ttttg tatga 
+    3495 attac tctcg gctcc actag tgggc cctgc aag 
+
+
+
+mEF-1a intron
+Location:2228-3175
+Length: 948bp
+Sequence :
+  2228 ctaaa aaagg gttta aaaga tacct ttgaa ccgct aagaa gcccg agaat 
+    2278 tagct ccgct caaaa ctcaa gggga caaat tccaa aaatg acttc cagcg 
+    2328 ccagg ctggc ctgac tagtc tccac ccacc aaatg tgaac aaact ccaac 
+    2378 gccat tacat cccct ccccc cgccg cgact agccg tgctc aaaag cccga 
+    2428 ggtga ctatt gcggc cgata ggacc acggg gtcac aggaa gcagc agccg 
+    2478 gtgag ggacc aggcc ctctt ccttt gtgtg ggtga ctcac ccgcc cgctc 
+    2528 caccg ggctg ccgcg tcctc cattt tgagc tcctt gcaac agggc ccggg 
+    2578 agcgg ccatc tttcc acgca cgcaa ctggt gccgg acggg atggc ctcac 
+    2628 cctag ttagg gaggc agggc aacgc ggcgc cgcca agcca gatcg tgccg 
+    2678 ggtgc tgggg ccaca tggcc tcggc acgct aaccc cagcc tggtt gcttc 
+    2728 gggaa aaacc ccagg cctcg cccca tccag gtggc gtcgg acatg tgctc 
+    2778 cgaag gcggg cgggc cccag ccgcc actcc tgtcc ctcca ttcct cccca 
+    2828 accat gacct ctccg ggctc cgggc gagca agccc cgcac cctcc ctttg 
+    2878 ttagc cccta ttgct gaacg gcaat cgaag gcagc agggc aacaa caaca 
+    2928 aaaaa aaaaa agacc agagt gcggc cggag tagca cgcgg cggcg gcgcg 
+    2978 gacac cacgc taggc ctcaa gccgg acacg aggcg aggct acggg gttgc 
+    3028 cgcta ggcct cgcac tctgc ctccc gcgcc gcccg caact cgaag cggga 
+    3078 atgct cgcag ctaat ccccg ccgac gacag cgggg cccgg cccgc tcgga 
+    3128 gcagg acctc cagct cggcg gcccg cggaa gccac acccg cccct cac 
+
+hCMV Enhancer
+Location 3705-4027
+Length:323bp
+Sequence: 
+    3705 ttaca taact tacgg taaat ggccc gcctg gctga ccgcc caacg acccc 
+    3755 cgccc attga cgtca ataat gacgt atgtt cccat agtaa cgcca atagg 
+    3805 gactt tccat tgacg tcaat gggtg gagta tttac ggtaa actgc ccact 
+    3855 tggca gtaca tcaag tgtat catat gccaa gtacg ccccc tattg acgtc 
+    3905 aatga cggta aatgg cccgc ctggc attat gccca gtaca tgacc ttatg 
+    3955 ggact ttcct acttg gcagt acatc tacgt attag tcatc gctat tacca 
+    4005 tgaat tggtt tgatc tgatt ata 
+
+
+
+
+hEF-1a promoter core
+Location: 4034-4251
+Length: 218
+Sequence:
+   4034 ggaga agagc atgct tgagg gctga gtgcc cctca gtggg cagag agcac 
+    4084 atggc ccaca gtccc tgaga agttg ggggg agggg tgggc aattg aactg 
+    4134 gtgcc tagag aaggt ggggc ttggg taaac tggga aagtg atgtg gtgta 
+    4184 ctggc tccac ctttt tcccc agggt ggggg agaac catat ataag tgcag 
+    4234 tagtc tctgt gaaca ttc 
+
+
+Light Chain Variable Region (5’-3’)
+Location:4353-4661
+Length:309
+Sequence:
+   4353 tacat ccacg tgacc cagtc tccgt cctcc ctgtc tgtgt ctatt ggaga 
+    4403 cagag tcacc atcaa ctgcc agacg agtca gggtg ttggc agtga cctac 
+    4453 attgg tatca acaca aaccg gggag agccc ctaaa ctctt gatcc accat 
+    4503 acctc ttctg tggaa gacgg tgtcc cctca agatt cagcg gctct ggatt 
+    4553 tcaca catct tttaa tctga ccatc agcga cctac aggct gacga cattg 
+    4603 ccaca tatta ctgtc aagtt ttaca attct ttggc cgagg gagta gactc 
+    4653 catat taaa 
+
+
+Light Chain Constant Region 
+Location: 4668-4982
+Length:315
+Sequence:
+4668 gtggc tgcac catct gtctt catct tccca ccatc tgatg agcag ttgaa 
+    4718 atctg gaact gcctc tgttg tgtgc ctgct gaata acttc taccc cagag 
+    4768 aagcc aaagt gcagt ggaag gtgga caatg ccctc cagag cggaa acagc 
+    4818 cagga atctg tgaca gagca ggatt ccaag gattc cacat acagc ctgag 
+    4868 cagca cactg acact gtcca aggct gacta cgaga agcac aaggt gtacg 
+    4918 cctgc gaagt gacac accag ggact gtcct cccct gtgac aaaga gcttc 
+    4968 aacag aggag aatgc 
+
+
+Scaffolding Matrix attachment Region 
+Location: 5004-6981
+Length: 1978
+
+Sequence:
+ 5004 aaata aactt ataaa ttgtg agaga aatta atgaa tgtct aagtt aatgc 
+    5054 agaaa cggag agaca tacta tattc atgaa ctaaa agact taata ttgtg 
+    5104 aaggt atact ttctt tccac ataaa tttgt agtca atatg ttcac cccaa 
+    5154 aaaag ctgtt tgtta acttg ccaac ctcat tctaa aatgt atata gaagc 
+    5204 ccaaa agaca ataac aaaaa tattc ttgta gaaca aaatg ggaaa gaatg 
+    5254 ttcca ctaaa tatca agatt tagag caaag catga gatgt gtggg gatag 
+    5304 acagt gaggc tgata aaata gagta gagct cagaa acaga cccat tgata 
+    5354 tatgt aagtg accta tgaaa aaaat atggc atttt acaat gggaa aatga 
+    5404 tgatc ttttt ctttt ttaga aaaac aggga aatat attta tatgt aaaaa 
+    5454 ataaa aggga accca tatgt catac catac acaca aaaaa attcc agtga 
+    5504 attat aagtc taaat ggaga aggca aaact ttaaa tcttt tagaa aataa 
+    5554 tatag aagca tgcca tcatg acttc agtgt agaga aaaat ttctt atgac 
+    5604 tcaaa gtcct aacca caaag aaaag attgt taatt agatt gcatg aatat 
+    5654 taaga cttat tttta aaatt aaaaa accat taaga aaagt caggc catag 
+    5704 aatga cagaa aatat ttgca acacc ccagt aaaga gaatt gtaat atgca 
+    5754 gatta taaaa agaag tctta caaat cagta aaaaa taaaa ctaga caaaa 
+    5804 atttg aacag atgaa agaga aactc taaat aatca ttaca catga gaaac 
+    5854 tcaat ctcag aaatc agaga actat cattg catat acact aaatt agaga 
+    5904 aatat taaaa ggcta agtaa catct gtggc aatat tgatg gtata taacc 
+    5954 ttgat atgat gtgat gagaa cagta cttta cccca tgggc ttcct cccca 
+    6004 aaccc ttacc ccagt ataaa tcatg acaaa tatac tttaa aaacc attac 
+    6054 cctat atcta accag tactc ctcaa aactg tcaag gtcat caaaa ataag 
+    6104 aaaag tctga ggaac tgtca aaact aagag gaacc caagg agaca tgaga 
+    6154 attat atgta atgtg gcatt ctgaa tgaga tccca gaaca gaaaa agaac 
+    6204 agtag ctaaa aaact aatga aatat aaata aagtt tgaac tttag ttttt 
+    6254 tttaa aaaag agtag catta acacg gcaaa gccat tttca tattt ttctt 
+    6304 gaaca ttaag tacaa gtcta taatt aaaaa ttttt taaat gtagt ctgga 
+    6354 acatt gccag aaaca gaagt acagc agcta tctgt gctgt cgcct aacta 
+    6404 tccat agctg attgg tctaa aatga gatac atcaa cgctc ctcca tgttt 
+    6454 tttgt tttct tttta aatga aaaac tttat ttttt aagag gagtt tcagg 
+    6504 ttcat agcaa aattg agagg aaggt acatt caagc tgagg aagtt ttcct 
+    6554 ctatt cctag tttac tgaga gattg catca tgaat gggtg ttaaa ttttg 
+    6604 tcaaa tgctt tttct gtgtc tatca atatg accat gtgat tttct tcttt 
+    6654 aacct gttga tggga caaat tacgt taatt gattt tcaaa cgttg aacca 
+    6704 ccctt acata tctgg aataa attct acttg gttgt ggtgt atatt ttttg 
+    6754 ataca ttctt ggatt ctttt tgcta atatt ttgtt gaaaa tgttt gtatc 
+    6804 tttgt tcatg agaga tattg gtctg ttgtt ttctt ttctt gtaat gtcat 
+    6854 tttct agttc cggta ttaag gtaat gctgg cctag ttgaa tgatt tagga 
+    6904 agtat tccct ctgct tctgt cttct gaaag agatt gtaga aagtt gatac 
+    6954 aattt ttttt tcttt aaata tcttg ata 
+
+
+
+
+SV40 Poly-signal (a)
+Location: 7064-7198
+Length: 135
+Sequence:
+ 7064 aactt gttta ttgca gctta taatg gttac aaata aagca atagc atcac 
+    7114 aaatt tcaca aataa agcat ttttt tcact gcatt ctagt tgtgg tttgt 
+    7164 ccaaa ctcat caatg tatct tatca tgtct ggatc 
+
+
+Intronic Region
+Location 7251-8631
+Length:1381
+Sequence:
+7251 Cggcc ggtgg atcca ccggt attgg gatct tcaca cagca ggtaa ggttg 
+    7301 cgggc cgggc ctggg ccggg tccgg gccgg gtatt gcccg cctaa tgagc 
+    7351 gggct ttttt ttctt acccc ttctt ccgct tcctc gctca ctgac tcgct 
+    7401 gcgct cggtc gttcg gctgc ggcga gcggt atcag ctcac tcaaa ggcgg 
+    7451 taata cggtt atcca cagaa tcagg ggata acgca ggaaa gaaca tgtga 
+    7501 gcaaa aggcc agcaa aaggc cagga accgt aaaaa ggccg cgttg ctggc 
+    7551 gtttt tccat aggct ccgcc cccct gacga gcatc acaaa aatcg acgct 
+    7601 caagt cagag gtggc gaaac ccgac aggac tataa agata ccagg cgttt 
+    7651 ccccc tggaa gctcc ctcgt gcgct ctcct gttcc gaccc tgccg cttac 
+    7701 cggat acctg tccgc ctttc tccct tcggg aagcg tggcg ctttc tcata 
+    7751 gctca cgctg taggt atctc agttc ggtgt aggtc gttcg ctcca agctg 
+    7801 ggctg tgtgc acgaa ccccc cgttc agccc gaccg ctgcg cctta tccgg 
+    7851 taact atcgt cttga gtcca acccg gtaag acacg actta tcgcc actgg 
+    7901 cagca gccac tggta acagg attag cagag cgagg tatgt aggcg gtgct 
+    7951 acaga gttct tgaag tggtg gccta actac ggcta cacta gaaga acagt 
+    8001 atttg gtatc tgcgc tctgc tgaag ccagt tacct tcgga aaaag agttg 
+    8051 gtagc tcttg atccg gcaaa caaac caccg ctggt agcgg tggtt ttttt 
+    8101 gtttg caagc agcag attac gcgca gaaaa aaagg atctc aagaa gatcc 
+    8151 tttga tcttt tctac ggggt ctgac gctca gtgga acgaa aactc acgtt 
+    8201 aaggg atttt ggtca tgaga ttatc aaaaa ggatc ttcac ctaga tcctt 
+    8251 ttaaa ttaaa aatga agttt taaat caatc taaag tatat atgag taaac 
+    8301 ttggt ctgac agtta ccaat gctta atcag tgagg cacct atctc agcga 
+    8351 tctgt ctatt tcgtt catcc atagt tgcct gactc ctgca aacca cgttg 
+    8401 tggta gaatt ggtaa agaga gtcgt gtaaa atatc gagtt cgcac atctt 
+    8451 gttgt ctgat tattg atttt tggcg aaacc atttg atcat atgac aagat 
+    8501 gtgta tctac cttaa cttaa tgatt ttgat aaaaa tcatt aggta ccccg 
+    8551 gcccg cactg acccc tggtg ttgct ttttt ttttt aggcc gcaag ctgaa 
+    8601 gcgtg tccac tagct gacta gctaa ccgcg g 
+
+
+AmpR
+Location:8638-9429
+Length:861
+Sequence:
+   8638 ttacc aatgc ttaat cagtg aggca cctat ctcag cgatc tgtct atttc 
+    8688 gttca tccat agttg cctga ctccc cgtcg tgtag ataac tacga tacgg 
+    8738 gaggg cttac catct ggccc cagtg ctgca atgat accgc gagac ccacg 
+    8788 ctcac cggct ccaga tttat cagca ataaa ccagc cagcc ggaag ggccg 
+    8838 agcgc agaag tggtc ctgca acttt atccg cctcc atcca gtcta ttaat 
+    8888 tgttg ccggg aagct agagt aagta gttcg ccagt taata gtttg cgcaa 
+    8938 cgttg ttgcc attgc tacag gcatc gtggt gtcac gctcg tcgtt tggta 
+    8988 tggct tcatt cagct ccggt tccca acgat caagg cgagt tacat gatcc 
+    9038 cccat gttgt gcaaa aaagc ggtta gctcc ttcgg tcctc cgatc gttgt 
+    9088 cagaa gtaag ttggc cgcag tgtta tcact catgg ttatg gcagc actgc 
+    9138 ataat tctct tactg tcatg ccatc cgtaa gatgc ttttc tgtga ctggt 
+    9188 gagta ctcaa ccaag tcatt ctgag aatag tgtat gcggc gaccg agttg 
+    9238 ctctt gcccg gcgtc aatac gggat aatac cgcgc cacat agcag aactt 
+    9288 taaaa gtgct catca ttgga aaacg ttctt cgggg cgaaa actct caagg 
+    9338 atctt accgc tgttg agatc cagtt cgatg taacc cactc gtgca cccaa 
+    9388 ctgat cttca gcatc tttta ctttc accag cgttt ctggg tg
+
+AmpT Promoter
+Location:9499-9603
+Length: 105
+Sequence:
+   9499 actct tcctt tttca atatt attga agcat ttatc agggt tattg tctca 
+    9549 tgagc ggata catat ttgaa tgtat ttaga aaaat aaaca aatag gggtt 
+    9599 ccgcg 
+
+Tetracycline Response Element repeats
+Location:9650-9901
+Length:251
+Sequence:
+9650 tccct atcag tgata gagaa aagtg aaagt cgagt ttacc actcc ctatc 
+    9700 agtga tagag aaaag tgaaa gtcga gttta ccact cccta tcagt gatag 
+    9750 agaaa agtga aagtc gagtt tacca ctccc tatca gtgat agaga aaagt 
+    9800 gaaag tcgag tttac cactc cctat cagtg ataga gaaaa gtgaa agtcg 
+    9850 agttt accac tccct atcag tgata gagaa aagtg aaagt cgagt ttacc 
+    9900 actcc ctatc agtga tagag a 
